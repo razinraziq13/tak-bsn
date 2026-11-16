@@ -4,6 +4,8 @@ RPG pendidikan 2D top-down untuk Bahasa Melayu Tingkatan 2 (kata nafi *tidak* da
 
 ## Cara main
 
+▶️ **Main terus dalam pelayar:** https://razinraziq13.github.io/tak-bsn/
+
 Buka `index.html` dalam pelayar (Chrome/Edge/Safari). Jika imej atau simpanan tidak berfungsi dari `file://`, jalankan pelayan statik ringkas dalam folder ini, cth. `npx serve .`.
 
 - Komputer: WASD / anak panah gerak · **E** interaksi · **B** Buku Misteri · **M** Peta · **J** Misi · **P** Profil · **I** Beg · **Esc** Menu
