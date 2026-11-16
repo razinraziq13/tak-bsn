@@ -1,0 +1,2996 @@
+{
+  "project": "TAK BSN",
+  "version": "1.0",
+  "status": "bank_soalan_contoh_perlu_semakan_guru",
+  "total": 173,
+  "questions": [
+    {
+      "id": "S1-M1-Q1",
+      "stage": 1,
+      "owner_id": "S1-M1",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Amir ___ membaca buku di rumah.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Amir tidak membaca buku di rumah.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M1-Q2",
+      "stage": 1,
+      "owner_id": "S1-M1",
+      "question_number": 2,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Amir ___ seorang guru.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Amir bukan seorang guru.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M1-Q3",
+      "stage": 1,
+      "owner_id": "S1-M1",
+      "question_number": 3,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Aisyah ___ lewat ke sekolah hari ini.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Aisyah tidak lewat ke sekolah hari ini.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M1-Q4",
+      "stage": 1,
+      "owner_id": "S1-M1",
+      "question_number": 4,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Aisyah ___ pegawai perpustakaan.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Aisyah bukan pegawai perpustakaan.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M1-Q5",
+      "stage": 1,
+      "owner_id": "S1-M1",
+      "question_number": 5,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Razin ___ menutup kedai pada waktu pagi.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Razin tidak menutup kedai pada waktu pagi.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M2-Q1",
+      "stage": 1,
+      "owner_id": "S1-M2",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Izhan ___ membawa payung ke kios.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Izhan tidak membawa payung ke kios.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M2-Q2",
+      "stage": 1,
+      "owner_id": "S1-M2",
+      "question_number": 2,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Bangunan itu ___ sekolah baharu.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Bangunan itu bukan sekolah baharu.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M2-Q3",
+      "stage": 1,
+      "owner_id": "S1-M2",
+      "question_number": 3,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Kelvin ___ menggunakan komputer itu.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kelvin tidak menggunakan komputer itu.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M2-Q4",
+      "stage": 1,
+      "owner_id": "S1-M2",
+      "question_number": 4,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Buku ini ___ milik Razin.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Buku ini bukan milik Razin.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M2-Q5",
+      "stage": 1,
+      "owner_id": "S1-M2",
+      "question_number": 5,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Hazim ___ memetik bunga di taman.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Hazim tidak memetik bunga di taman.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M3-Q1",
+      "stage": 1,
+      "owner_id": "S1-M3",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Encik Nazhif ___ mengajar pada hari Ahad.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Encik Nazhif tidak mengajar pada hari Ahad.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M3-Q2",
+      "stage": 1,
+      "owner_id": "S1-M3",
+      "question_number": 2,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Beg di atas meja ___ kepunyaan Amir.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Beg di atas meja bukan kepunyaan Amir.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M3-Q3",
+      "stage": 1,
+      "owner_id": "S1-M3",
+      "question_number": 3,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Murid itu ___ menyiapkan latihan.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Murid itu tidak menyiapkan latihan.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M3-Q4",
+      "stage": 1,
+      "owner_id": "S1-M3",
+      "question_number": 4,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Izhan ___ pengawas sekolah.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Izhan bukan pengawas sekolah.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M3-Q5",
+      "stage": 1,
+      "owner_id": "S1-M3",
+      "question_number": 5,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Kakak Amir ___ berjalan ke pasar.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kakak Amir tidak berjalan ke pasar.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M4-Q1",
+      "stage": 1,
+      "owner_id": "S1-M4",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Bas sekolah ___ berhenti di hadapan pintu.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Bas sekolah tidak berhenti di hadapan pintu.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M4-Q2",
+      "stage": 1,
+      "owner_id": "S1-M4",
+      "question_number": 2,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Kelvin ___ pengetua sekolah.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kelvin bukan pengetua sekolah.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M4-Q3",
+      "stage": 1,
+      "owner_id": "S1-M4",
+      "question_number": 3,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Pintu perpustakaan ___ terbuka sekarang.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Pintu perpustakaan tidak terbuka sekarang.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M4-Q4",
+      "stage": 1,
+      "owner_id": "S1-M4",
+      "question_number": 4,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Hazim ___ pekerja di pasar itu.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Hazim bukan pekerja di pasar itu.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M4-Q5",
+      "stage": 1,
+      "owner_id": "S1-M4",
+      "question_number": 5,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Aisyah ___ memahami arahan itu.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Aisyah tidak memahami arahan itu.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M5-Q1",
+      "stage": 1,
+      "owner_id": "S1-M5",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Amir ___ berlari di koridor sekolah.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Amir tidak berlari di koridor sekolah.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M5-Q2",
+      "stage": 1,
+      "owner_id": "S1-M5",
+      "question_number": 2,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Haiwan kecil itu ___ kucing.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Haiwan kecil itu bukan kucing.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M5-Q3",
+      "stage": 1,
+      "owner_id": "S1-M5",
+      "question_number": 3,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Komputer di makmal ___ berfungsi.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Komputer di makmal tidak berfungsi.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M5-Q4",
+      "stage": 1,
+      "owner_id": "S1-M5",
+      "question_number": 4,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Kawasan ini ___ taman permainan.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kawasan ini bukan taman permainan.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-M5-Q5",
+      "stage": 1,
+      "owner_id": "S1-M5",
+      "question_number": 5,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Razin ___ menerima bungkusan semalam.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Razin tidak menerima bungkusan semalam.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M1-Q1",
+      "stage": 2,
+      "owner_id": "S2-M1",
+      "question_number": 1,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Rumah di hujung jalan ___ rumah Aisyah.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Rumah di hujung jalan bukan rumah Aisyah.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M1-Q2",
+      "stage": 2,
+      "owner_id": "S2-M1",
+      "question_number": 2,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Izhan ___ menjual buku latihan di kios.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Izhan tidak menjual buku latihan di kios.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M1-Q3",
+      "stage": 2,
+      "owner_id": "S2-M1",
+      "question_number": 3,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Buku misteri itu ___ buku masakan.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Buku misteri itu bukan buku masakan.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M1-Q4",
+      "stage": 2,
+      "owner_id": "S2-M1",
+      "question_number": 4,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Hazim ___ menyiram pokok itu.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Hazim tidak menyiram pokok itu.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M1-Q5",
+      "stage": 2,
+      "owner_id": "S2-M1",
+      "question_number": 5,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Kedai itu ___ sebuah restoran.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kedai itu bukan sebuah restoran.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M2-Q1",
+      "stage": 2,
+      "owner_id": "S2-M2",
+      "question_number": 1,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Bangunan besar itu ___ hospital.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Bangunan besar itu bukan hospital.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M2-Q2",
+      "stage": 2,
+      "owner_id": "S2-M2",
+      "question_number": 2,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Pelajar itu ___ menghadiri perjumpaan.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Pelajar itu tidak menghadiri perjumpaan.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M2-Q3",
+      "stage": 2,
+      "owner_id": "S2-M2",
+      "question_number": 3,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Amir ___ ketua kumpulan tersebut.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Amir bukan ketua kumpulan tersebut.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M2-Q4",
+      "stage": 2,
+      "owner_id": "S2-M2",
+      "question_number": 4,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Buku di rak ___ tersusun kemas.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Buku di rak tidak tersusun kemas.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M2-Q5",
+      "stage": 2,
+      "owner_id": "S2-M2",
+      "question_number": 5,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Jawapan ini ___ jawapan yang betul.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Jawapan ini bukan jawapan yang betul.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M3-Q1",
+      "stage": 2,
+      "owner_id": "S2-M3",
+      "question_number": 1,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Benda bercahaya itu ___ lampu suluh.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Benda bercahaya itu bukan lampu suluh.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M3-Q2",
+      "stage": 2,
+      "owner_id": "S2-M3",
+      "question_number": 2,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Papan tanda itu ___ jelas dibaca.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Papan tanda itu tidak jelas dibaca.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M3-Q3",
+      "stage": 2,
+      "owner_id": "S2-M3",
+      "question_number": 3,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Razin ___ penjual pakaian.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Razin bukan penjual pakaian.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M3-Q4",
+      "stage": 2,
+      "owner_id": "S2-M3",
+      "question_number": 4,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Soalan ini ___ sukar bagi Amir.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Soalan ini tidak sukar bagi Amir.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M3-Q5",
+      "stage": 2,
+      "owner_id": "S2-M3",
+      "question_number": 5,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Izhan ___ jurulatih bola sepak.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Izhan bukan jurulatih bola sepak.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M4-Q1",
+      "stage": 2,
+      "owner_id": "S2-M4",
+      "question_number": 1,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Kelvin ___ pemilik perpustakaan lama.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kelvin bukan pemilik perpustakaan lama.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M4-Q2",
+      "stage": 2,
+      "owner_id": "S2-M4",
+      "question_number": 2,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Jalan di kampung ___ sesak pagi ini.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Jalan di kampung tidak sesak pagi ini.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M4-Q3",
+      "stage": 2,
+      "owner_id": "S2-M4",
+      "question_number": 3,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Hazim ___ guru Matematik.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Hazim bukan guru Matematik.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M4-Q4",
+      "stage": 2,
+      "owner_id": "S2-M4",
+      "question_number": 4,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Aisyah ___ penat selepas berehat.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Aisyah tidak penat selepas berehat.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M4-Q5",
+      "stage": 2,
+      "owner_id": "S2-M4",
+      "question_number": 5,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Laluan ini ___ ke sekolah.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Laluan ini bukan ke sekolah.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M5-Q1",
+      "stage": 2,
+      "owner_id": "S2-M5",
+      "question_number": 1,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Hadiah itu ___ untuk Amir.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Hadiah itu bukan untuk Amir.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M5-Q2",
+      "stage": 2,
+      "owner_id": "S2-M5",
+      "question_number": 2,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Cuaca hari ini ___ panas.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Cuaca hari ini tidak panas.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M5-Q3",
+      "stage": 2,
+      "owner_id": "S2-M5",
+      "question_number": 3,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Bilik ini ___ bilik makmal.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Bilik ini bukan bilik makmal.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M5-Q4",
+      "stage": 2,
+      "owner_id": "S2-M5",
+      "question_number": 4,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Halaman buku itu ___ lengkap lagi.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Halaman buku itu tidak lengkap lagi.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-M5-Q5",
+      "stage": 2,
+      "owner_id": "S2-M5",
+      "question_number": 5,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Kotak itu ___ daripada kayu.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kotak itu bukan daripada kayu.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M1-Q1",
+      "stage": 3,
+      "owner_id": "S3-M1",
+      "question_number": 1,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "gerbang / membuka / dapat / tidak / Mereka",
+      "correct_answer": "Mereka tidak dapat membuka gerbang.",
+      "display_options": [],
+      "canonical_sentence": "Mereka tidak dapat membuka gerbang.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M1-Q2",
+      "stage": 3,
+      "owner_id": "S3-M1",
+      "question_number": 2,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "sekolah / pihak / daripada / bukan / itu / Surat",
+      "correct_answer": "Surat itu bukan daripada pihak sekolah.",
+      "display_options": [],
+      "canonical_sentence": "Surat itu bukan daripada pihak sekolah.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M1-Q3",
+      "stage": 3,
+      "owner_id": "S3-M1",
+      "question_number": 3,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "berkunci / tidak / istana / Pintu",
+      "correct_answer": "Pintu istana tidak berkunci.",
+      "display_options": [],
+      "canonical_sentence": "Pintu istana tidak berkunci.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M1-Q4",
+      "stage": 3,
+      "owner_id": "S3-M1",
+      "question_number": 4,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "permainan / membeli / untuk / bukan / tabung / dalam / Duit",
+      "correct_answer": "Duit dalam tabung bukan untuk membeli permainan.",
+      "display_options": [],
+      "canonical_sentence": "Duit dalam tabung bukan untuk membeli permainan.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M1-Q5",
+      "stage": 3,
+      "owner_id": "S3-M1",
+      "question_number": 5,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "hujan / selepas / jernih / tidak / sungai / Air",
+      "correct_answer": "Air sungai tidak jernih selepas hujan.",
+      "display_options": [],
+      "canonical_sentence": "Air sungai tidak jernih selepas hujan.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M2-Q1",
+      "stage": 3,
+      "owner_id": "S3-M2",
+      "question_number": 1,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "tadi / petang / pada / bersih / tidak / itu / Taman",
+      "correct_answer": "Taman itu tidak bersih pada petang tadi.",
+      "display_options": [],
+      "canonical_sentence": "Taman itu tidak bersih pada petang tadi.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M2-Q2",
+      "stage": 3,
+      "owner_id": "S3-M2",
+      "question_number": 2,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "kampung / penduduk / milik / bukan / itu / Kawasan",
+      "correct_answer": "Kawasan itu bukan milik penduduk kampung.",
+      "display_options": [],
+      "canonical_sentence": "Kawasan itu bukan milik penduduk kampung.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M2-Q3",
+      "stage": 3,
+      "owner_id": "S3-M2",
+      "question_number": 3,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "perpustakaan / di / bising / tidak / Murid-murid",
+      "correct_answer": "Murid-murid tidak bising di perpustakaan.",
+      "display_options": [],
+      "canonical_sentence": "Murid-murid tidak bising di perpustakaan.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M2-Q4",
+      "stage": 3,
+      "owner_id": "S3-M2",
+      "question_number": 4,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "Aisyah / untuk / bukan / tersebut / Makanan",
+      "correct_answer": "Makanan tersebut bukan untuk Aisyah.",
+      "display_options": [],
+      "canonical_sentence": "Makanan tersebut bukan untuk Aisyah.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M2-Q5",
+      "stage": 3,
+      "owner_id": "S3-M2",
+      "question_number": 5,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "itu / lama / mesin / membaiki / pandai / tidak / Kelvin",
+      "correct_answer": "Kelvin tidak pandai membaiki mesin lama itu.",
+      "display_options": [],
+      "canonical_sentence": "Kelvin tidak pandai membaiki mesin lama itu.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M3-Q1",
+      "stage": 3,
+      "owner_id": "S3-M3",
+      "question_number": 1,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "baharu / pesanan / tentang / yakin / tidak / Razin",
+      "correct_answer": "Razin tidak yakin tentang pesanan baharu.",
+      "display_options": [],
+      "canonical_sentence": "Razin tidak yakin tentang pesanan baharu.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M3-Q2",
+      "stage": 3,
+      "owner_id": "S3-M3",
+      "question_number": 2,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "kami / sekolah / bendera / bukan / itu / Bendera",
+      "correct_answer": "Bendera itu bukan bendera sekolah kami.",
+      "display_options": [],
+      "canonical_sentence": "Bendera itu bukan bendera sekolah kami.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M3-Q3",
+      "stage": 3,
+      "owner_id": "S3-M3",
+      "question_number": 3,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "berat / tidak / itu / Peti",
+      "correct_answer": "Peti itu tidak berat.",
+      "display_options": [],
+      "canonical_sentence": "Peti itu tidak berat.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M3-Q4",
+      "stage": 3,
+      "owner_id": "S3-M3",
+      "question_number": 4,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "utama / jalan / bukan / ini / Jambatan",
+      "correct_answer": "Jambatan ini bukan jalan utama.",
+      "display_options": [],
+      "canonical_sentence": "Jambatan ini bukan jalan utama.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M3-Q5",
+      "stage": 3,
+      "owner_id": "S3-M3",
+      "question_number": 5,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "gelap / tidak / malam / Langit",
+      "correct_answer": "Langit malam tidak gelap.",
+      "display_options": [],
+      "canonical_sentence": "Langit malam tidak gelap.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M4-Q1",
+      "stage": 3,
+      "owner_id": "S3-M4",
+      "question_number": 1,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "semula / mencuba / takut / tidak / Amir",
+      "correct_answer": "Amir tidak takut mencuba semula.",
+      "display_options": [],
+      "canonical_sentence": "Amir tidak takut mencuba semula.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M4-Q2",
+      "stage": 3,
+      "owner_id": "S3-M4",
+      "question_number": 2,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "istana / masuk / pintu / bukan / ini / Gerbang",
+      "correct_answer": "Gerbang ini bukan pintu masuk istana.",
+      "display_options": [],
+      "canonical_sentence": "Gerbang ini bukan pintu masuk istana.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M4-Q3",
+      "stage": 3,
+      "owner_id": "S3-M4",
+      "question_number": 3,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "jawapan / memberikan / ragu-ragu / tidak / Aisyah",
+      "correct_answer": "Aisyah tidak ragu-ragu memberikan jawapan.",
+      "display_options": [],
+      "canonical_sentence": "Aisyah tidak ragu-ragu memberikan jawapan.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M4-Q4",
+      "stage": 3,
+      "owner_id": "S3-M4",
+      "question_number": 4,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "murid / menunggu / tempat / bukan / itu / Ruang",
+      "correct_answer": "Ruang itu bukan tempat menunggu murid.",
+      "display_options": [],
+      "canonical_sentence": "Ruang itu bukan tempat menunggu murid.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M4-Q5",
+      "stage": 3,
+      "owner_id": "S3-M4",
+      "question_number": 5,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "muridnya / kepada / marah / tidak / itu / Guru",
+      "correct_answer": "Guru itu tidak marah kepada muridnya.",
+      "display_options": [],
+      "canonical_sentence": "Guru itu tidak marah kepada muridnya.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M5-Q1",
+      "stage": 3,
+      "owner_id": "S3-M5",
+      "question_number": 1,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "dilalui / selamat / tidak / ini / Laluan",
+      "correct_answer": "Laluan ini tidak selamat dilalui.",
+      "display_options": [],
+      "canonical_sentence": "Laluan ini tidak selamat dilalui.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M5-Q2",
+      "stage": 3,
+      "owner_id": "S3-M5",
+      "question_number": 2,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "jualan / barang / bukan / itu / Lencana",
+      "correct_answer": "Lencana itu bukan barang jualan.",
+      "display_options": [],
+      "canonical_sentence": "Lencana itu bukan barang jualan.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M5-Q3",
+      "stage": 3,
+      "owner_id": "S3-M5",
+      "question_number": 3,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "difahami / mudah / tidak / arah / Tanda",
+      "correct_answer": "Tanda arah tidak mudah difahami.",
+      "display_options": [],
+      "canonical_sentence": "Tanda arah tidak mudah difahami.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M5-Q4",
+      "stage": 3,
+      "owner_id": "S3-M5",
+      "question_number": 4,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "sekolah / lama / gambar / bukan / ini / Gambar",
+      "correct_answer": "Gambar ini bukan gambar lama sekolah.",
+      "display_options": [],
+      "canonical_sentence": "Gambar ini bukan gambar lama sekolah.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-M5-Q5",
+      "stage": 3,
+      "owner_id": "S3-M5",
+      "question_number": 5,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "kuat / tidak / itu / loceng / Bunyi",
+      "correct_answer": "Bunyi loceng itu tidak kuat.",
+      "display_options": [],
+      "canonical_sentence": "Bunyi loceng itu tidak kuat.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M1-Q1",
+      "stage": 4,
+      "owner_id": "S4-M1",
+      "question_number": 1,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Buku itu bukan menarik bagi semua murid.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Buku itu tidak menarik bagi semua murid.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M1-Q2",
+      "stage": 4,
+      "owner_id": "S4-M1",
+      "question_number": 2,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Kristal itu tidak batu biasa.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kristal itu bukan batu biasa.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M1-Q3",
+      "stage": 4,
+      "owner_id": "S4-M1",
+      "question_number": 3,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Perpustakaan bukan sunyi semasa rehat.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Perpustakaan tidak sunyi semasa rehat.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M1-Q4",
+      "stage": 4,
+      "owner_id": "S4-M1",
+      "question_number": 4,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Peta itu tidak peta dunia sebenar.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Peta itu bukan peta dunia sebenar.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M1-Q5",
+      "stage": 4,
+      "owner_id": "S4-M1",
+      "question_number": 5,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Amir bukan lupa membawa buku latihan.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Amir tidak lupa membawa buku latihan.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M2-Q1",
+      "stage": 4,
+      "owner_id": "S4-M2",
+      "question_number": 1,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Aisyah bukan menjumpai pintu rahsia.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Aisyah tidak menjumpai pintu rahsia.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M2-Q2",
+      "stage": 4,
+      "owner_id": "S4-M2",
+      "question_number": 2,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Soalan itu tidak teka-teki matematik.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Soalan itu bukan teka-teki matematik.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M2-Q3",
+      "stage": 4,
+      "owner_id": "S4-M2",
+      "question_number": 3,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Razin bukan mencatat semua harga.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Razin tidak mencatat semua harga.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M2-Q4",
+      "stage": 4,
+      "owner_id": "S4-M2",
+      "question_number": 4,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Kertas di lantai tidak surat rasmi.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kertas di lantai bukan surat rasmi.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M2-Q5",
+      "stage": 4,
+      "owner_id": "S4-M2",
+      "question_number": 5,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Izhan bukan membungkus barang dengan cepat.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Izhan tidak membungkus barang dengan cepat.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M3-Q1",
+      "stage": 4,
+      "owner_id": "S4-M3",
+      "question_number": 1,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Kelvin bukan menyimpan fail itu.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kelvin tidak menyimpan fail itu.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M3-Q2",
+      "stage": 4,
+      "owner_id": "S4-M3",
+      "question_number": 2,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Halaman ini tidak bahagian penutup buku.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Halaman ini bukan bahagian penutup buku.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M3-Q3",
+      "stage": 4,
+      "owner_id": "S4-M3",
+      "question_number": 3,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Hazim bukan memeriksa jambatan.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Hazim tidak memeriksa jambatan.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M3-Q4",
+      "stage": 4,
+      "owner_id": "S4-M3",
+      "question_number": 4,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Kunci ini tidak kunci rumah saya.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kunci ini bukan kunci rumah saya.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M3-Q5",
+      "stage": 4,
+      "owner_id": "S4-M3",
+      "question_number": 5,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Encik Nazhif bukan memulakan kelas lagi.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Encik Nazhif tidak memulakan kelas lagi.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M4-Q1",
+      "stage": 4,
+      "owner_id": "S4-M4",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Amir ___ hendak bermain, tetapi hendak belajar.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Amir bukan hendak bermain, tetapi hendak belajar.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M4-Q2",
+      "stage": 4,
+      "owner_id": "S4-M4",
+      "question_number": 2,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Aisyah ___ malas, tetapi sedang kurang sihat.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Aisyah bukan malas, tetapi sedang kurang sihat.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M4-Q3",
+      "stage": 4,
+      "owner_id": "S4-M4",
+      "question_number": 3,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Razin ___ ingin menutup kedai, tetapi ingin menyusun stok dahulu.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Razin bukan ingin menutup kedai, tetapi ingin menyusun stok dahulu.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M4-Q4",
+      "stage": 4,
+      "owner_id": "S4-M4",
+      "question_number": 4,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Izhan ___ marah, tetapi hanya kecewa.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Izhan bukan marah, tetapi hanya kecewa.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M4-Q5",
+      "stage": 4,
+      "owner_id": "S4-M4",
+      "question_number": 5,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Kelvin ___ mahu memadam fail, tetapi mahu menyimpannya.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kelvin bukan mahu memadam fail, tetapi mahu menyimpannya.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M5-Q1",
+      "stage": 4,
+      "owner_id": "S4-M5",
+      "question_number": 1,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Murid itu bukan mengangkat tangan.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Murid itu tidak mengangkat tangan.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M5-Q2",
+      "stage": 4,
+      "owner_id": "S4-M5",
+      "question_number": 2,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Hadiah itu tidak milik Kelvin.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Hadiah itu bukan milik Kelvin.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M5-Q3",
+      "stage": 4,
+      "owner_id": "S4-M5",
+      "question_number": 3,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Aisyah bukan menulis jawapan di papan putih.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Aisyah tidak menulis jawapan di papan putih.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M5-Q4",
+      "stage": 4,
+      "owner_id": "S4-M5",
+      "question_number": 4,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Bangunan di hadapan tidak pusat membeli-belah.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Bangunan di hadapan bukan pusat membeli-belah.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-M5-Q5",
+      "stage": 4,
+      "owner_id": "S4-M5",
+      "question_number": 5,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Amir bukan mendengar arahan dengan teliti.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Amir tidak mendengar arahan dengan teliti.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M1-Q1",
+      "stage": 5,
+      "owner_id": "S5-M1",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Hazim ___ hendak berehat, tetapi hendak menyiapkan kerja.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Hazim bukan hendak berehat, tetapi hendak menyiapkan kerja.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M1-Q2",
+      "stage": 5,
+      "owner_id": "S5-M1",
+      "question_number": 2,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "lampu / suis / menutup / tidak / mereka / Rakan",
+      "correct_answer": "Rakan mereka tidak menutup suis lampu.",
+      "display_options": [],
+      "canonical_sentence": "Rakan mereka tidak menutup suis lampu.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M1-Q3",
+      "stage": 5,
+      "owner_id": "S5-M1",
+      "question_number": 3,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Amir tidak seorang mahasiswa lagi.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Amir bukan seorang mahasiswa lagi.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M1-Q4",
+      "stage": 5,
+      "owner_id": "S5-M1",
+      "question_number": 4,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Encik Nazhif ___ tidak memahami murid, tetapi sedang memberi mereka masa.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Encik Nazhif bukan tidak memahami murid, tetapi sedang memberi mereka masa.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M1-Q5",
+      "stage": 5,
+      "owner_id": "S5-M1",
+      "question_number": 5,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Guru besar ___ hadir ke perhimpunan.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Guru besar tidak hadir ke perhimpunan.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M2-Q1",
+      "stage": 5,
+      "owner_id": "S5-M2",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Jambatan itu ___ lemah, tetapi belum dibaiki dengan betul.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Jambatan itu bukan lemah, tetapi belum dibaiki dengan betul.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M2-Q2",
+      "stage": 5,
+      "owner_id": "S5-M2",
+      "question_number": 2,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "menyala / tidak / koridor / Lampu",
+      "correct_answer": "Lampu koridor tidak menyala.",
+      "display_options": [],
+      "canonical_sentence": "Lampu koridor tidak menyala.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M2-Q3",
+      "stage": 5,
+      "owner_id": "S5-M2",
+      "question_number": 3,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Aisyah tidak penjaga kedai runcit.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Aisyah bukan penjaga kedai runcit.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M2-Q4",
+      "stage": 5,
+      "owner_id": "S5-M2",
+      "question_number": 4,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Amir ___ lupa, tetapi sengaja menunggu Aisyah.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Amir bukan lupa, tetapi sengaja menunggu Aisyah.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M2-Q5",
+      "stage": 5,
+      "owner_id": "S5-M2",
+      "question_number": 5,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Kertas latihan ___ kering selepas terkena air.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kertas latihan tidak kering selepas terkena air.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M3-Q1",
+      "stage": 5,
+      "owner_id": "S5-M3",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Buku itu ___ rosak sepenuhnya, tetapi hanya beberapa halamannya tercabut.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Buku itu bukan rosak sepenuhnya, tetapi hanya beberapa halamannya tercabut.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M3-Q2",
+      "stage": 5,
+      "owner_id": "S5-M3",
+      "question_number": 2,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "tepat / tidak / itu / Penyelesaian",
+      "correct_answer": "Penyelesaian itu tidak tepat.",
+      "display_options": [],
+      "canonical_sentence": "Penyelesaian itu tidak tepat.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M3-Q3",
+      "stage": 5,
+      "owner_id": "S5-M3",
+      "question_number": 3,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Buku itu tidak kepunyaan Encik Nazhif.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Buku itu bukan kepunyaan Encik Nazhif.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M3-Q4",
+      "stage": 5,
+      "owner_id": "S5-M3",
+      "question_number": 4,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Aisyah ___ takut, tetapi sedang memikirkan jawapan.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Aisyah bukan takut, tetapi sedang memikirkan jawapan.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M3-Q5",
+      "stage": 5,
+      "owner_id": "S5-M3",
+      "question_number": 5,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Jawapan pelajar ___ lengkap.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Jawapan pelajar tidak lengkap.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M4-Q1",
+      "stage": 5,
+      "owner_id": "S5-M4",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Tugas itu ___ mudah, tetapi boleh diselesaikan dengan latihan.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Tugas itu bukan mudah, tetapi boleh diselesaikan dengan latihan.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M4-Q2",
+      "stage": 5,
+      "owner_id": "S5-M4",
+      "question_number": 2,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "tinggi / tidak / gerbang / Pintu",
+      "correct_answer": "Pintu gerbang tidak tinggi.",
+      "display_options": [],
+      "canonical_sentence": "Pintu gerbang tidak tinggi.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M4-Q3",
+      "stage": 5,
+      "owner_id": "S5-M4",
+      "question_number": 3,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Objek di tasik tidak sebuah bot.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Objek di tasik bukan sebuah bot.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M4-Q4",
+      "stage": 5,
+      "owner_id": "S5-M4",
+      "question_number": 4,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Jawapan itu ___ salah sepenuhnya, tetapi kurang tepat pada bahagian akhir.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Jawapan itu bukan salah sepenuhnya, tetapi kurang tepat pada bahagian akhir.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M4-Q5",
+      "stage": 5,
+      "owner_id": "S5-M4",
+      "question_number": 5,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Tempat duduk itu ___ selesa.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Tempat duduk itu tidak selesa.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M5-Q1",
+      "stage": 5,
+      "owner_id": "S5-M5",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Kelvin ___ hendak keluar, tetapi mahu memeriksa projektor dahulu.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kelvin bukan hendak keluar, tetapi mahu memeriksa projektor dahulu.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M5-Q2",
+      "stage": 5,
+      "owner_id": "S5-M5",
+      "question_number": 2,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "luas / tidak / makmal / Ruang",
+      "correct_answer": "Ruang makmal tidak luas.",
+      "display_options": [],
+      "canonical_sentence": "Ruang makmal tidak luas.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M5-Q3",
+      "stage": 5,
+      "owner_id": "S5-M5",
+      "question_number": 3,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Pokok itu tidak pokok mangga.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Pokok itu bukan pokok mangga.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M5-Q4",
+      "stage": 5,
+      "owner_id": "S5-M5",
+      "question_number": 4,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Amir ___ bertanya untuk mengusik, tetapi kerana mahu memahami peraturan.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Amir bukan bertanya untuk mengusik, tetapi kerana mahu memahami peraturan.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-M5-Q5",
+      "stage": 5,
+      "owner_id": "S5-M5",
+      "question_number": 5,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Jambatan kayu ___ kukuh.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Jambatan kayu tidak kukuh.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-B-Q1",
+      "stage": 1,
+      "owner_id": "S1-B",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Bintang di langit ___ kelihatan malam ini.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Bintang di langit tidak kelihatan malam ini.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-B-Q2",
+      "stage": 1,
+      "owner_id": "S1-B",
+      "question_number": 2,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Makanan di meja ___ sarapan Amir.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Makanan di meja bukan sarapan Amir.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-B-Q3",
+      "stage": 1,
+      "owner_id": "S1-B",
+      "question_number": 3,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Kucing di taman ___ tidur di bawah pokok.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kucing di taman tidak tidur di bawah pokok.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-B-Q4",
+      "stage": 1,
+      "owner_id": "S1-B",
+      "question_number": 4,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Perpustakaan lama ___ bangunan kosong.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Perpustakaan lama bukan bangunan kosong.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S1-B-Q5",
+      "stage": 1,
+      "owner_id": "S1-B",
+      "question_number": 5,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Murid baharu ___ mengenali semua guru.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Murid baharu tidak mengenali semua guru.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-B-Q1",
+      "stage": 2,
+      "owner_id": "S2-B",
+      "question_number": 1,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Kamera itu ___ kepunyaan kelas kami.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kamera itu bukan kepunyaan kelas kami.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-B-Q2",
+      "stage": 2,
+      "owner_id": "S2-B",
+      "question_number": 2,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Aisyah ___ membawa kamus mini.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Aisyah tidak membawa kamus mini.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-B-Q3",
+      "stage": 2,
+      "owner_id": "S2-B",
+      "question_number": 3,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Kain ini ___ untuk membuat langsir.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kain ini bukan untuk membuat langsir.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-B-Q4",
+      "stage": 2,
+      "owner_id": "S2-B",
+      "question_number": 4,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Amir ___ menyalin nota daripada buku.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Amir tidak menyalin nota daripada buku.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-B-Q5",
+      "stage": 2,
+      "owner_id": "S2-B",
+      "question_number": 5,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Bilik itu ___ untuk guru sahaja.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Bilik itu bukan untuk guru sahaja.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-B-Q6",
+      "stage": 2,
+      "owner_id": "S2-B",
+      "question_number": 6,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Penjaga sekolah ___ membuka pagar.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Penjaga sekolah tidak membuka pagar.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S2-B-Q7",
+      "stage": 2,
+      "owner_id": "S2-B",
+      "question_number": 7,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Kad ini ___ kad pelajar UPSI.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kad ini bukan kad pelajar UPSI.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-B-Q1",
+      "stage": 3,
+      "owner_id": "S3-B",
+      "question_number": 1,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "abjad / mengikut / buku / menyusun / tidak / Razin",
+      "correct_answer": "Razin tidak menyusun buku mengikut abjad.",
+      "display_options": [],
+      "canonical_sentence": "Razin tidak menyusun buku mengikut abjad.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-B-Q2",
+      "stage": 3,
+      "owner_id": "S3-B",
+      "question_number": 2,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "sukan / pertandingan / hadiah / bukan / itu / Pingat",
+      "correct_answer": "Pingat itu bukan hadiah pertandingan sukan.",
+      "display_options": [],
+      "canonical_sentence": "Pingat itu bukan hadiah pertandingan sukan.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-B-Q3",
+      "stage": 3,
+      "owner_id": "S3-B",
+      "question_number": 3,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "pelanggan / kepada / baki / memulangkan / tidak / Izhan",
+      "correct_answer": "Izhan tidak memulangkan baki kepada pelanggan.",
+      "display_options": [],
+      "canonical_sentence": "Izhan tidak memulangkan baki kepada pelanggan.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-B-Q4",
+      "stage": 3,
+      "owner_id": "S3-B",
+      "question_number": 4,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "sekolah / uniform / bukan / itu / Pakaian",
+      "correct_answer": "Pakaian itu bukan uniform sekolah.",
+      "display_options": [],
+      "canonical_sentence": "Pakaian itu bukan uniform sekolah.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-B-Q5",
+      "stage": 3,
+      "owner_id": "S3-B",
+      "question_number": 5,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "projektor / menghidupkan / tidak / Kelvin",
+      "correct_answer": "Kelvin tidak menghidupkan projektor.",
+      "display_options": [],
+      "canonical_sentence": "Kelvin tidak menghidupkan projektor.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-B-Q6",
+      "stage": 3,
+      "owner_id": "S3-B",
+      "question_number": 6,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "pasar / ke / jalan / bukan / ini / Jalan",
+      "correct_answer": "Jalan ini bukan jalan ke pasar.",
+      "display_options": [],
+      "canonical_sentence": "Jalan ini bukan jalan ke pasar.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-B-Q7",
+      "stage": 3,
+      "owner_id": "S3-B",
+      "question_number": 7,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "arah / papan / memasang / tidak / Hazim",
+      "correct_answer": "Hazim tidak memasang papan arah.",
+      "display_options": [],
+      "canonical_sentence": "Hazim tidak memasang papan arah.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-B-Q8",
+      "stage": 3,
+      "owner_id": "S3-B",
+      "question_number": 8,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "sirap / air / bukan / botol / dalam / di / Air",
+      "correct_answer": "Air di dalam botol bukan air sirap.",
+      "display_options": [],
+      "canonical_sentence": "Air di dalam botol bukan air sirap.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S3-B-Q9",
+      "stage": 3,
+      "owner_id": "S3-B",
+      "question_number": 9,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "terjatuh / selepas / cantik / tidak / itu / bunga / Pasu",
+      "correct_answer": "Pasu bunga itu tidak cantik selepas terjatuh.",
+      "display_options": [],
+      "canonical_sentence": "Pasu bunga itu tidak cantik selepas terjatuh.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-B-Q1",
+      "stage": 4,
+      "owner_id": "S4-B",
+      "question_number": 1,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Jalan menuju perpustakaan bukan jauh.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Jalan menuju perpustakaan tidak jauh.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-B-Q2",
+      "stage": 4,
+      "owner_id": "S4-B",
+      "question_number": 2,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Bunga itu tidak bunga ros.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Bunga itu bukan bunga ros.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-B-Q3",
+      "stage": 4,
+      "owner_id": "S4-B",
+      "question_number": 3,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Peraturan ini bukan rumit.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Peraturan ini tidak rumit.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-B-Q4",
+      "stage": 4,
+      "owner_id": "S4-B",
+      "question_number": 4,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Topi itu tidak topi Razin.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Topi itu bukan topi Razin.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-B-Q5",
+      "stage": 4,
+      "owner_id": "S4-B",
+      "question_number": 5,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Penerangan Aisyah bukan panjang.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Penerangan Aisyah tidak panjang.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-B-Q6",
+      "stage": 4,
+      "owner_id": "S4-B",
+      "question_number": 6,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Tempat ini tidak kawasan rehat.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Tempat ini bukan kawasan rehat.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-B-Q7",
+      "stage": 4,
+      "owner_id": "S4-B",
+      "question_number": 7,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Rak buku itu bukan teguh.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Rak buku itu tidak teguh.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-B-Q8",
+      "stage": 4,
+      "owner_id": "S4-B",
+      "question_number": 8,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Kotak kecil itu tidak peti harta.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kotak kecil itu bukan peti harta.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-B-Q9",
+      "stage": 4,
+      "owner_id": "S4-B",
+      "question_number": 9,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Hujan bukan berhenti sejak pagi.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Hujan tidak berhenti sejak pagi.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-B-Q10",
+      "stage": 4,
+      "owner_id": "S4-B",
+      "question_number": 10,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Papan kenyataan itu tidak untuk iklan kedai.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Papan kenyataan itu bukan untuk iklan kedai.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-B-Q11",
+      "stage": 4,
+      "owner_id": "S4-B",
+      "question_number": 11,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Semua murid bukan faham penjelasan tersebut.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Semua murid tidak faham penjelasan tersebut.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S4-B-Q12",
+      "stage": 4,
+      "owner_id": "S4-B",
+      "question_number": 12,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Kesilapan itu tidak kesalahan ejaan.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kesilapan itu bukan kesalahan ejaan.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q1",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 1,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Amir ___ mahu berputus asa.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Amir tidak mahu berputus asa.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q2",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 2,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "bahaya / tanda / bukan / dinding / pada / Simbol",
+      "correct_answer": "Simbol pada dinding bukan tanda bahaya.",
+      "display_options": [],
+      "canonical_sentence": "Simbol pada dinding bukan tanda bahaya.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q3",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 3,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Aisyah bukan melangkah masuk ke bilik bacaan.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Aisyah tidak melangkah masuk ke bilik bacaan.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q4",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 4,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Simpanan ini ___ untuk membeli telefon.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Simpanan ini bukan untuk membeli telefon.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q5",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 5,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Razin ___ menolak cadangan itu, tetapi mahu menelitinya semula.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Razin bukan menolak cadangan itu, tetapi mahu menelitinya semula.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q6",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 6,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Kelvin ___ menerima mesej itu lagi.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Kelvin tidak menerima mesej itu lagi.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q7",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 7,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "penjahat / watak / bukan / itu / Pemain",
+      "correct_answer": "Pemain itu bukan watak penjahat.",
+      "display_options": [],
+      "canonical_sentence": "Pemain itu bukan watak penjahat.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q8",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 8,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Hazim bukan membuang sampah ke dalam sungai.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Hazim tidak membuang sampah ke dalam sungai.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q9",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 9,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Murid yang baru masuk ___ Amir.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Murid yang baru masuk bukan Amir.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q10",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 10,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Izhan ___ mahu menjual barang tersebut, tetapi mahu memulangkannya.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Izhan bukan mahu menjual barang tersebut, tetapi mahu memulangkannya.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q11",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 11,
+      "kind": "fill",
+      "instruction": "Isi tempat kosong dengan “tidak” atau “bukan”.",
+      "prompt": "Razin ___ menyukai susunan rak baharu.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Razin tidak menyukai susunan rak baharu.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q12",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 12,
+      "kind": "reorder",
+      "instruction": "Susun cip perkataan supaya menjadi ayat yang gramatis.",
+      "prompt": "renang / kolam / bukan / itu / kecil / Tasik",
+      "correct_answer": "Tasik kecil itu bukan kolam renang.",
+      "display_options": [],
+      "canonical_sentence": "Tasik kecil itu bukan kolam renang.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q13",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 13,
+      "kind": "correction",
+      "instruction": "Betulkan kata nafi dalam ayat berikut.",
+      "prompt": "Izhan bukan percaya kepada khabar angin itu.",
+      "correct_answer": "tidak",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Izhan tidak percaya kepada khabar angin itu.",
+      "grammar_rule": "frasa_kerja_atau_adjektif",
+      "explanation": "Kata nafi “tidak” digunakan untuk menafikan frasa kerja atau frasa adjektif dalam konteks biasa ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q14",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 14,
+      "kind": "mcq",
+      "instruction": "Pilih kata nafi yang paling sesuai.",
+      "prompt": "Barang di kios ___ milik sekolah.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Barang di kios bukan milik sekolah.",
+      "grammar_rule": "frasa_nama_atau_sendi_nama",
+      "explanation": "Kata nafi “bukan” digunakan untuk menafikan frasa nama atau frasa sendi nama dalam konteks ini.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    },
+    {
+      "id": "S5-B-Q15",
+      "stage": 5,
+      "owner_id": "S5-B",
+      "question_number": 15,
+      "kind": "matching",
+      "instruction": "Padankan ayat ini dengan kata nafi yang betul.",
+      "prompt": "Hazim ___ sedang tidur, tetapi sedang memeriksa taman.",
+      "correct_answer": "bukan",
+      "display_options": [
+        "tidak",
+        "bukan"
+      ],
+      "canonical_sentence": "Hazim bukan sedang tidur, tetapi sedang memeriksa taman.",
+      "grammar_rule": "pertentangan_maklumat",
+      "explanation": "Dalam ayat yang menunjukkan pertentangan maklumat dengan “tetapi”, “bukan” boleh mendahului frasa kerja atau frasa adjektif.",
+      "source_status": "cadangan_kandungan_disemak_guru_sebelum_penerbitan"
+    }
+  ]
+}
